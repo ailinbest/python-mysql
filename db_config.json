@@ -1,0 +1,9 @@
+{
+  "db": {
+    "username": "mysql-username",
+    "password": "mysql-password",
+    "address": "mysql-ip",
+    "port": 3306,
+    "db_name": "db-name"
+  }
+}
